@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<org.eventb.core.contextFile org.eventb.core.configuration="org.eventb.core.fwd" org.eventb.core.generated="false" org.eventb.texttools.text_lastmodified="1553546013920" org.eventb.texttools.text_representation="context AuctionContext&#10;sets&#10;USER&#10;ITEM&#10;constants&#10;actionDuration&#10;//axioms&#10;end&#10;" version="3">
+<org.eventb.core.carrierSet name="_WgPBQE80EemVLLq5G4mpQw" org.eventb.core.generated="false" org.eventb.core.identifier="USER"/>
+<org.eventb.core.carrierSet name="_WgPoUE80EemVLLq5G4mpQw" org.eventb.core.generated="false" org.eventb.core.identifier="ITEM"/>
+<org.eventb.core.constant name="_wCKjYE80EemVLLq5G4mpQw" org.eventb.core.comment="axioms" org.eventb.core.generated="false" org.eventb.core.identifier="actionDuration"/>
+</org.eventb.core.contextFile>
